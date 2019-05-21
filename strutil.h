@@ -1,8 +1,5 @@
 #ifndef STRUTIL_H
 #define STRUTIL_H
-#include "vector.h"
-#include "pila.h"
-#include "cola.h"
 #include <stddef.h>
 #include <string.h>
 /*
