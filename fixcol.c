@@ -4,7 +4,6 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <stdbool.h>
-ssize_t getline(char **lineptr, size_t *n, FILE *stream);
 
 int main(int argc, char *argv[]){
     if(argc > 3) return 1;
